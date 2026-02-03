@@ -79,9 +79,17 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurM0hammad&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurM0hammad)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurM0hammad&layout=compact&theme=radical&hide_border=true)
+</div>
+
+
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurM0hammad)
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NurM0hammad&theme=radical&hide_border=true)
 
@@ -146,10 +154,12 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ## 📫 Connect With Me  
 
 <div align="center">
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-018bb3388)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-of-noor.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noormohammad3855@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NurM0hammad)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+
 
 </div>
 
