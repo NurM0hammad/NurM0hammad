@@ -162,7 +162,8 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me  
-
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NurM0hama)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nur.mohammad.cyber@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-018bb3388/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HTWfn7pxq/)
 
