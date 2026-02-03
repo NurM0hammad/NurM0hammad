@@ -1,16 +1,165 @@
-## Hi there 👋
+<!-- ================= HERO SECTION ================= -->
+<div align="center">
 
-<!--
-**NurM0hammad/NurM0hammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <h1>👨‍💻 NUR MOHAMMAD<h1/>  
+###  🧑‍💻 Full-Stack Developer  | Python & Django 
 
-Here are some ideas to get you started:
+📍 Bangladesh • 📧 nur.mohammad.cyber@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=NurM0hammad&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/NurM0hammad?style=social)
+
+</div>
+
+---
+
+<!-- ================= ABOUT SECTION ================= -->
+## 🚀 About Me  
+
+I’m Nur Mohammad, a passionate Full-Stack Developer from Bangladesh 🇧🇩, specializing in Python automation, Django, and Flask. I enjoy building scalable web applications, REST APIs, and automation tools that solve real-world problems.
+
+On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, and React + Vite to create clean, responsive, and user-friendly interfaces. On the backend, I focus on writing clean, maintainable code and designing efficient SQL databases including MySQL, PostgreSQL, Oracle, and SQLite.
+
+---
+
+<!-- ================= TECH STACK ================= -->
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+</div>
+
+### ⚙️ Backend  
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge&logo=robotframework&logoColor=white)
+
+
+### **🗃️ Databases & ORM**
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
+
+
+### 🧰 Tools & Platforms  
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Overview  
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NurM0hammad&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurM0hammad&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NurM0hammad&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## 📁 Featured Projects  
+
+### 🌐 Personal Portfolio  
+🔗 https://portfolio-of-noor.netlify.app  
+
+**Tech:** React, Vite, CSS3  
+**Features:**  
+- Fully responsive design  
+- Project showcase  
+- Contact form integration  
+
+---
+
+### 🛒 E-commerce Frontend  
+**Tech:** React, Bootstrap, JavaScript  
+**Features:**  
+- Product listing & filtering  
+- Shopping cart  
+- Authentication UI  
+
+---
+
+### 📝 Blog API Backend  
+**Tech:** Django, Django REST Framework, PostgreSQL  
+**Features:**  
+- RESTful CRUD APIs  
+- User authentication  
+- Comment system  
+
+---
+
+<!-- ================= LEARNING ================= -->
+## 💡 Currently Learning  
+
+- Advanced React (Hooks, Context API)  
+- TypeScript for scalable UI  
+- Django REST Framework  
+- System Design Basics  
+
+---
+
+<!-- ================= TROPHIES ================= -->
+## 🏆 GitHub Achievements  
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=NurM0hammad&theme=radical&no-frame=true&row=2&column=4)
+
+</div>
+
+---
+
+<!-- ================= CONTACT ================= -->
+## 📫 Connect With Me  
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-of-noor.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noormohammad3855@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NurM0hammad)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Let’s Build Something Amazing Together  
+Open for collaboration, learning, and exciting projects 😊  
+
+![Visitor Count](https://profile-counter.glitch.me/NurM0hammad/count.svg)
+
+</div>
