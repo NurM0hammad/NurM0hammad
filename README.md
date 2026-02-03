@@ -101,7 +101,6 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ## 📁 Featured Projects  
 
 ### 🌐 Personal Portfolio  
-🔗 https://portfolio-of-noor.netlify.app  
 
 **Tech:** React, Vite, CSS3  
 **Features:**  
