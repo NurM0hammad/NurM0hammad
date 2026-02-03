@@ -143,9 +143,7 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ## 🏆 GitHub Achievements  
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=NurM0hammad&theme=radical&no-frame=true&row=2&column=4)
-
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/NurM0hammad?color=green)
 </div>
 
 ---
@@ -153,23 +151,18 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me  
 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-018bb3388)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-of-noor.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noormohammad3855@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NurM0hammad)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-018bb3388/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HTWfn7pxq/)
 
 
-</div>
-
----
 
 <div align="center">
 
 ### 🚀 Let’s Build Something Amazing Together  
 Open for collaboration, learning, and exciting projects 😊  
 
-![Visitor Count](https://profile-counter.glitch.me/NurM0hammad/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=NurM0hammad&color=blue)
+
 
 </div>
+
