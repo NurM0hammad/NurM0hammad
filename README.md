@@ -101,7 +101,7 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ## 📁 Featured Projects  
 
 ### 🌐 Personal Portfolio  
-https://nur-mohammad.netlify.app
+<div align="center"> https://nur-mohammad.netlify.app/ </div>
 **Tech:** React, Vite, React Motion, Tailwind CSS 
 **Features:**  
 - Fully responsive design  
