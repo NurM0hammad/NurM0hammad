@@ -91,7 +91,6 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NurM0hammad&theme=radical&hide_border=true)
 
 </div>
 
