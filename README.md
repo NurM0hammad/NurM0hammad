@@ -126,45 +126,25 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 📁 Featured Projects  
+<!-- ================= PROJECTS SECTION ================= -->
+## 🚀 live projects
 
-### 🌐 Personal Portfolio  
-<div align="center"> https://nur-mohammad.netlify.app/ </div>
-**Tech:** React, Vite, React Motion, Tailwind CSS 
-**Features:**  
-- Fully responsive design  
-- Project showcase  
-- Contact form integration  
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=200&lines=frontend;react;vite;tailwind" alt="Frontend" />
 
-### 🛒 E-commerce Frontend  
-**Tech:** React, Bootstrap, JavaScript  
-**Features:**  
-- Product listing & filtering  
-- Shopping cart  
-- Authentication UI  
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=react&logoColor=8B5CF6)](https://nur-mohammad.netlify.app)
+[![modern web](https://img.shields.io/badge/modern_web-000?style=for-the-badge&logo=react&logoColor=8B5CF6)](https://nimble-kitten-2445a2.netlify.app)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=200&lines=backend;django;flask;bootstrap" alt="Backend" />
 
-### 📝 Blog API Backend  
-**Tech:** Django, Django REST Framework, PostgreSQL  
-**Features:**  
-- RESTful CRUD APIs  
-- User authentication  
-- Comment system  
+[![e-commerce](https://img.shields.io/badge/e--commerce-000?style=for-the-badge&logo=django&logoColor=10B981)](https://e-commerce-3-tvn2.onrender.com)
+[![foxmind ai](https://img.shields.io/badge/foxmind_ai-000?style=for-the-badge&logo=python&logoColor=10B981)](https://foxmind-ai.onrender.com)
+[![downloader](https://img.shields.io/badge/downloader-000?style=for-the-badge&logo=django&logoColor=10B981)](https://social-video-downloader-fuik.onrender.com)
 
----
 
-<!-- ================= LEARNING ================= -->
-## 💡 Currently Learning  
 
-- Advanced React (Hooks, Context API)  
-- TypeScript for scalable UI  
-- Django REST Framework  
-- System Design Basics  
 
----
 
 <!-- ================= TROPHIES ================= -->
 ## 🏆 GitHub Achievements  
