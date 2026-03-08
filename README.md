@@ -1,10 +1,10 @@
 <!-- ================= HERO SECTION ================= -->
 <div align="center">
 
-# <h1>👨‍💻 NUR MOHAMMAD<h1/>  
-###  🧑‍💻 Full-Stack Developer  | Python & Django 
+# 👨‍💻 NUR MOHAMMAD
+### 🧑‍💻 Full-Stack Developer | Python & Django
 
-📍 Bangladesh • 📧 nur.mohammad.cyber@gmail.com  
+📍 Bangladesh • 📧 nur.mohammad.cyber@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NurM0hammad&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/NurM0hammad?style=social)
@@ -14,18 +14,18 @@
 ---
 
 <!-- ================= ABOUT SECTION ================= -->
-## 🚀 About Me  
+## 🚀 About Me
 
-I’m Nur Mohammad, a passionate Full-Stack Developer from Bangladesh 🇧🇩, specializing in Python automation, Django, and Flask. I enjoy building scalable web applications, REST APIs, and automation tools that solve real-world problems.
+I'm Nur Mohammad, a passionate Full-Stack Developer from Bangladesh 🇧🇩, specializing in Python automation, Django, and Flask. I enjoy building scalable web applications, REST APIs, and automation tools that solve real-world problems.
 
 On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, and React + Vite to create clean, responsive, and user-friendly interfaces. On the backend, I focus on writing clean, maintainable code and designing efficient SQL databases including MySQL, PostgreSQL, Oracle, and SQLite.
 
 ---
 
 <!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 🎨 Frontend  
+### 🎨 Frontend
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,10 +36,9 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 </div>
 
-### ⚙️ Backend  
+### ⚙️ Backend
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -47,8 +46,9 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-0A66C2?style=for-the-badge&logo=robotframework&logoColor=white)
 
+</div>
 
-### **🗃️ Databases & ORM**
+### 🗃️ Databases & ORM
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,8 +59,7 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 
 </div>
 
-
-### 🧰 Tools & Platforms  
+### 🧰 Tools & Platforms
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -69,77 +68,84 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-
 </div>
 
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Overview  
+## 📊 GitHub Overview
 
 <div align="center">
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NurM0hammad)
-
-</div>
-
-
-
-<div align="center">
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurM0hammad)
-
-
-
 
 </div>
 
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 📁 Featured Projects  
+## 📁 Featured Projects
 
-### 🌐 Personal Portfolio  
-<div align="center"> https://nur-mohammad.netlify.app/ </div>
-**Tech:** React, Vite, React Motion, Tailwind CSS 
-**Features:**  
-- Fully responsive design  
-- Project showcase  
-- Contact form integration  
+### 🌐 Personal Portfolio
+<div align="center">
+  <a href="https://nur-mohammad.netlify.app/" target="_blank">nur-mohammad.netlify.app</a>
+</div>
 
----
+**Tech:** React, Vite, React Motion, Tailwind CSS
 
-### 🛒 E-commerce Frontend  
-**Tech:** React, Bootstrap, JavaScript  
-**Features:**  
-- Product listing & filtering  
-- Shopping cart  
-- Authentication UI  
+**Features:**
+- Fully responsive design
+- Project showcase
+- Contact form integration
 
 ---
 
-### 📝 Blog API Backend  
-**Tech:** Django, Django REST Framework, PostgreSQL  
-**Features:**  
-- RESTful CRUD APIs  
-- User authentication  
-- Comment system  
+### 🛒 E-commerce Frontend
+**Tech:** React, Bootstrap, JavaScript
+
+**Features:**
+- Product listing & filtering
+- Shopping cart
+- Authentication UI
+
+---
+
+### 📝 Blog API Backend
+**Tech:** Django, Django REST Framework, PostgreSQL
+
+**Features:**
+- RESTful CRUD APIs
+- User authentication
+- Comment system
+
+---
+
+<!-- ================= DJANGO PROJECTS ================= -->
+## 🐍 Django Projects
+
+Here are my live Django applications:
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **FoxMind AI** | AI-powered application | [foxmind-ai.onrender.com](https://foxmind-ai.onrender.com) |
+| **E-Commerce Platform** | Full-featured e-commerce site | [e-commerce-3-tvn2.onrender.com](https://e-commerce-3-tvn2.onrender.com) |
+| **Social Video Downloader** | Video downloading tool | [social-video-downloader-fuik.onrender.com](https://social-video-downloader-fuik.onrender.com) |
 
 ---
 
 <!-- ================= LEARNING ================= -->
-## 💡 Currently Learning  
+## 💡 Currently Learning
 
-- Advanced React (Hooks, Context API)  
-- TypeScript for scalable UI  
-- Django REST Framework  
-- System Design Basics  
+- Advanced React (Hooks, Context API)
+- TypeScript for scalable UI
+- Django REST Framework
+- System Design Basics
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-## 🏆 GitHub Achievements  
-
+<!-- ================= GITHUB STATS ================= -->
+## 🏆 GitHub Statistics
 
 <div align="center">
 
@@ -156,24 +162,29 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 ![Total Contributions](https://img.shields.io/badge/TOTAL+CONTRIBUTIONS-50+-brightgreen?style=for-the-badge)
 
 </div>
+
 ---
 
 <!-- ================= CONTACT ================= -->
-## 📫 Connect With Me  
+## 📫 Connect With Me
+
+<div align="center">
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NurM0hama)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nur.mohammad.cyber@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nur-mohammad-018bb3388/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1HTWfn7pxq/)
 
+</div>
 
+---
 
 <div align="center">
 
-### 🚀 Let’s Build Something Amazing Together  
-Open for collaboration, learning, and exciting projects 😊  
+### 🚀 Let's Build Something Amazing Together
+
+Open for collaboration, learning, and exciting projects 😊
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NurM0hammad&color=blue)
 
-
 </div>
-
