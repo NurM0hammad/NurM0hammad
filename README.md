@@ -1,13 +1,9 @@
 <!-- ================= HERO SECTION WITH TYPING ANIMATION ================= -->
 <div align="center">
   
-  <!-- Animated Wave Hand -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">
-    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" height="40px" alt="wave">
-  </picture>
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=44FF00&center=true&vCenter=true&width=200&lines=🐍+Python+Dev;🐍+Django+Pro;🐍+Flask+Master" alt="Typing SVG" />
+
+
   <h1>
     <strong>NUR MOHAMMAD</strong>
   </h1>
