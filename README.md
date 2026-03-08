@@ -116,7 +116,7 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NurM0hammad)
+<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=NurM0hammad&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" /> </p>
 
 
 
