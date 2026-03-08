@@ -146,24 +146,10 @@ On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, an
 
 <!-- ================= TROPHIES ================= -->
 ## 🏆 GitHub Achievements  
-
-
+<!-- 3D Profile Card -->
 <div align="center">
-
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=NurM0hammad&color=blue&label=PROFILE+VIEWS&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/NurM0hammad?color=green&label=FOLLOWERS&style=for-the-badge)
-
-<!-- Stars & Repos -->
-![GitHub Stars](https://img.shields.io/github/stars/NurM0hammad?color=yellow&label=TOTAL+STARS&style=for-the-badge)
-![Public Repos](https://img.shields.io/badge/PUBLIC+REPOS-6-blue?style=for-the-badge)
-
-<!-- Activity -->
-![Monthly Commits](https://img.shields.io/github/commit-activity/m/NurM0hammad?color=orange&label=MONTHLY+COMMITS&style=for-the-badge)
-![Total Contributions](https://img.shields.io/badge/TOTAL+CONTRIBUTIONS-50+-brightgreen?style=for-the-badge)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NurM0hammad&theme=tokyonight" width="100%" />
 </div>
----
 
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me  
