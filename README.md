@@ -37,6 +37,21 @@
   
 </div>
 
+## 🚀 live projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=200&lines=frontend;react;vite;tailwind" alt="Frontend" />
+
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=react&logoColor=8B5CF6)](https://nur-mohammad.netlify.app)
+[![modern web](https://img.shields.io/badge/modern_web-000?style=for-the-badge&logo=react&logoColor=8B5CF6)](https://nimble-kitten-2445a2.netlify.app)
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=200&lines=backend;django;flask;bootstrap" alt="Backend" />
+
+[![e-commerce](https://img.shields.io/badge/e--commerce-000?style=for-the-badge&logo=django&logoColor=10B981)](https://e-commerce-3-tvn2.onrender.com)
+[![foxmind ai](https://img.shields.io/badge/foxmind_ai-000?style=for-the-badge&logo=python&logoColor=10B981)](https://foxmind-ai.onrender.com)
+[![downloader](https://img.shields.io/badge/downloader-000?style=for-the-badge&logo=django&logoColor=10B981)](https://social-video-downloader-fuik.onrender.com)
+
 
 <!-- ================= ABOUT SECTION ================= -->
 ## 🚀 About Me  
@@ -44,9 +59,6 @@
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=435&lines=Python+%26+Django+Specialist;React+%2B+Vite+Enthusiast;API+Architect;Automation+Expert" alt="Typing SVG" /> </div><table align="center"> <tr> <td width="50%" valign="top"> <h3>🎨 Frontend</h3> <ul> <li>⚛️ React + Vite</li> <li>🎭 JavaScript</li> <li>💅 Tailwind CSS / Bootstrap</li> <li>📱 Responsive Design</li> </ul> </td> <td width="50%" valign="top"> <h3>⚙️ Backend</h3> <ul> <li>🐍 Python (Django, Flask)</li> <li>🔌 REST APIs</li> <li>🤖 Automation Tools</li> <li>🗄️ SQL (MySQL, PostgreSQL, Oracle, SQLite)</li> </ul> </td> </tr> </table><div align="center">
 
 
-
-
----
 
 <!-- ================= TECH STACK ================= -->
 ## 🛠️ Tech Stack  
@@ -124,21 +136,6 @@
 
 <!-- ================= PROJECTS ================= -->
 <!-- ================= PROJECTS SECTION ================= -->
-## 🚀 live projects
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=200&lines=frontend;react;vite;tailwind" alt="Frontend" />
-
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=react&logoColor=8B5CF6)](https://nur-mohammad.netlify.app)
-[![modern web](https://img.shields.io/badge/modern_web-000?style=for-the-badge&logo=react&logoColor=8B5CF6)](https://nimble-kitten-2445a2.netlify.app)
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=10B981&center=true&vCenter=true&width=200&lines=backend;django;flask;bootstrap" alt="Backend" />
-
-[![e-commerce](https://img.shields.io/badge/e--commerce-000?style=for-the-badge&logo=django&logoColor=10B981)](https://e-commerce-3-tvn2.onrender.com)
-[![foxmind ai](https://img.shields.io/badge/foxmind_ai-000?style=for-the-badge&logo=python&logoColor=10B981)](https://foxmind-ai.onrender.com)
-[![downloader](https://img.shields.io/badge/downloader-000?style=for-the-badge&logo=django&logoColor=10B981)](https://social-video-downloader-fuik.onrender.com)
-
 
 
 
