@@ -56,8 +56,12 @@
 <!-- ================= ABOUT SECTION ================= -->
 ## 🚀 About Me  
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=435&lines=Python+%26+Django+Specialist;React+%2B+Vite+Enthusiast;API+Architect;Automation+Expert" alt="Typing SVG" /> </div><table align="center"> <tr> <td width="50%" valign="top"> <h3>🎨 Frontend</h3> <ul> <li>⚛️ React + Vite</li> <li>🎭 JavaScript</li> <li>💅 Tailwind CSS / Bootstrap</li> <li>📱 Responsive Design</li> </ul> </td> <td width="50%" valign="top"> <h3>⚙️ Backend</h3> <ul> <li>🐍 Python (Django, Flask)</li> <li>🔌 REST APIs</li> <li>🤖 Automation Tools</li> <li>🗄️ SQL (MySQL, PostgreSQL, Oracle, SQLite)</li> </ul> </td> </tr> </table><div align="center">
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=3B82F6&center=true&vCenter=true&width=435&lines=Python+%26+Django+Specialist;React+%2B+Vite+Enthusiast;API+Architect;Automation+Expert" alt="Typing SVG" /> 
 
+<div align="center">I’m Nur Mohammad, a passionate Full-Stack Developer from Bangladesh 🇧🇩, specializing in Python automation, Django, and Flask. I enjoy building scalable web applications, REST APIs, and automation tools that solve real-world problems.
+
+On the frontend, I work with HTML, CSS (Bootstrap, Tailwind CSS), JavaScript, and React + Vite to create clean, responsive, and user-friendly interfaces. On the backend, I focus on writing clean, maintainable code and designing efficient SQL databases including MySQL, PostgreSQL, Oracle, and SQLite.
+</div>
 
 
 <!-- ================= TECH STACK ================= -->
